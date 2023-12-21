@@ -5,7 +5,7 @@
   <div class="grid lg:grid-cols-12 lg:gap-x-[30px] mx-auto max-w-7xl px-5 lg:px-8 relative">
 
     <div class="lg:col-span-7 text-[#141516]">
-      <h1 class="font-bold text-[64px] leading-[72px] tracking-[-0.64px]">Decentralised EO Manifesto</h1>
+      <h1 class="font-bold text-4xl md:text-[64px] md:leading-[72px] tracking-[-0.64px]">Decentralised EO<br />Manifesto</h1>
       <div class="text-[19px] leading-[26px] mt-6">
         <p>In the vein of collaboration between the Web3 and Earth Observation (EO) communities, we articulate our
           ethos
